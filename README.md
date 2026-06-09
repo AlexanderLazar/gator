@@ -1,4 +1,4 @@
-# Gator, A Minimally-Functional CLI RSS Aggregator
+# Gator, A Minimally-Functional CLI RSS Aggregator, built following Boot.Dev
 
 ## Requires Go and PostgreSQL
 
@@ -10,7 +10,7 @@ By default, configuration files are expected at "$HOME/.gatorconfig.json"; these
 
 {
 	"db_url": <postgres_URL>,
-	"current_user_name": <username>
+	"current_user_name": <username>,
 }
 
 ## Usage:
